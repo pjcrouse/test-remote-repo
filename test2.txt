@@ -1,1 +1,2 @@
 line 1 of new txt file
+line 2 of new txt file
